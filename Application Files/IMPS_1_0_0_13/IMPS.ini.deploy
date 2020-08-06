@@ -1,0 +1,80 @@
+[Sitatex]
+
+[SGNAAXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNAAXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNAAXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNAAXH\DONE 
+
+[SGNOOXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNOOXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNOOXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNOOXH\DONE 
+
+[SGNKLXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNKLXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNKLXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNKLXH\DONE 
+
+[DADKKXH]
+Server=172.16.234.5
+DBName=DCS20DAGS
+UID=sa
+PWD=iZFpdBbVjOT+3jrWtTqkvw==
+MessageFolder=D:\MessageDaemon v9\DADKKXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\DADKKXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\DADKKXH\DONE 
+
+[smis@sags.vn]
+BaseStation=SGN
+SSL=0
+Password=b68WFxKtzzVbjXPvgqxKnA==
+Server=mail.sags.vn
+Port=110
+Con=bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe9H8k/IvFkUKfDhzE6u/Sd480LRStk6YJfAbFugMR0d0mw5n81ZmIpWtO5scaGBzuI=
+
+[smis-dad@sags.vn]
+BaseStation=DAD
+SSL=0
+Password=b68WFxKtzzVbjXPvgqxKnA==
+Server=mail.sags.vn
+Port=110
+Con=+7cZQSQYPlCxKY0xWyQR+O4/qZIzUlrLknHDhpo4eJZuI/3gECfzwQVktb9cTDQNhQ+JI6kyJnaR89TFDGq9gSwPb7xW+BO051HFjusR+tJY5v+eaZizZ9Thv6/NJ0z5
+
+[SDS SGN]
+BaseStation=SGN
+DCS20ConnectionString=bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe9H8k/IvFkUKfDhzE6u/Sd480LRStk6YJfAbFugMR0d0mw5n81ZmIpWtO5scaGBzuI=
+LDCSConnectionString=bOKBdmrcAX9BXOf6dI/tuZJX+Neo66IS07yi0mOdDXCKB46pSywiZZxKl5KC6HYeGUORPTtOHTvE0EOSOszbSZxDLhuyJzy7hK2jGtoC0bk=
+
+[SDS DAD]
+BaseStation=DAD
+DCS20ConnectionString=+7cZQSQYPlCxKY0xWyQR+O4/qZIzUlrLknHDhpo4eJZuI/3gECfzwQVktb9cTDQNhQ+JI6kyJnaR89TFDGq9gSwPb7xW+BO051HFjusR+tJY5v+eaZizZ9Thv6/NJ0z5
+LDCSConnectionString=+7cZQSQYPlCxKY0xWyQR+O4/qZIzUlrLknHDhpo4eJYPtWeVCCaEHaYkK/mke8rpEG+bVibny6YnFUUW7wMFdQ8aPKfpRtkmhR5yhCqIDCV8x9jNW4D93CcaRJx4uVW3
+
+[SDS CXR]
+BaseStation=CXR
+DCS20ConnectionString=+7cZQSQYPlCxKY0xWyQR+PKOO7fTjUqQ27E1mt8cfhfNsFoS9ZBDX5onsGjbvX14EFqzzDQia36mc8ysjKgdHk7M0hm5xBgA9rk5oH7jQn6crGjzjNWRURLFEupFoN09
+LDCSConnectionString=+7cZQSQYPlCxKY0xWyQR+PKOO7fTjUqQ27E1mt8cfhdt1Kc7uSeXnMiGOS57Wl0VmddgwFH8dNVFwTf8Q2hvv4BJ0NNeNH8A/JvNdik0eyE/ZRswZ888/4UpJgW3CBia
+
+[TC Auto Mail]
+[CLC Mail]
+[GPS]
+[Roll Call]
+[AMHS]
+Server=10.10.0.189
+Port=9092
+Db=D:/Ua_v2.0.2/databases/VVTSSAGS
+Db0=D:/Ua_v2.0.2/databases/VVTSZPZX
+Pwd=
+BaseStation=VVTS

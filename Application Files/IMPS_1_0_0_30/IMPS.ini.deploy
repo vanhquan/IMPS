@@ -1,0 +1,72 @@
+[Sitatex]
+
+[SGNAAXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNAAXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNAAXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNAAXH\DONE 
+
+[SGNOOXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNOOXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNOOXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNOOXH\DONE 
+
+[SGNKLXH]
+Server=10.10.55.5
+DBName=DCS20
+UID=sa
+PWD=5X+Ptyifd+S0Nutt6DFwhg==
+MessageFolder=D:\MessageDaemon v9\SGNKLXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\SGNKLXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\SGNKLXH\DONE 
+
+[DADKKXH]
+Server=172.16.235.5
+DBName=DCS20DAGS
+UID=sa
+PWD=iZFpdBbVjOT+3jrWtTqkvw==
+MessageFolder=D:\MessageDaemon v9\DADKKXH\IN 
+ErrorMessageFolder=D:\MessageDaemon v9\DADKKXH\ERROR 
+DoneMessageFolder=D:\MessageDaemon v9\DADKKXH\DONE 
+
+[smis@sags.vn]
+BaseStation=SGN
+SSL=0
+Password=b68WFxKtzzVbjXPvgqxKnA==
+Server=mail.sags.vn
+Port=110
+Con=bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe9H8k/IvFkUKfDhzE6u/Sd480LRStk6YJfAbFugMR0d0mw5n81ZmIpWtO5scaGBzuI=
+
+[smis-dad@sags.vn]
+BaseStation=DAD
+SSL=0
+Password=b68WFxKtzzVbjXPvgqxKnA==
+Server=mail.sags.vn
+Port=110
+Con=+7cZQSQYPlCxKY0xWyQR+Jldkk7j51SBhtfidnTqUQy61oYdeMvkUVSID+xalyiwrWSguTQJ6cj9I0TyYZibATGITBtsOcZqwM9wIQUvRfLshGh8F6n8q91UEghb0RPs
+
+[TC Auto Mail]
+[CLC Mail]
+[CLC CXR Mail]
+[CLC DAD Mail]
+[GPS]
+[Roll Call]
+[AMHS]
+Server=10.10.0.8
+Port=9092
+Db=D:/Ua_v2.0.2/databases/VVTSSAGS
+Db0=D:/Ua_v2.0.2/databases/VVTSZPZX
+Pwd=
+BaseStation=VVTS
+
+[SDS SGN]
+BaseStation=SGN
+DCS20ConnectionString=bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe9H8k/IvFkUKfDhzE6u/Sd480LRStk6YJfAbFugMR0d0mw5n81ZmIpWtO5scaGBzuI=
+LDCSConnectionString=bOKBdmrcAX9BXOf6dI/tuRQ0kbsnQ3G9/DAnrrwyVe8vICpxNsYQEEbdqsD6EkbFgIuLeruynexkcng8Sr+sKQPc0mMx1F2oW07J15ro23M=
